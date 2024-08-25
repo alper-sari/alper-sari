@@ -5,7 +5,7 @@ I have over 8 years of experience in technology, starting with my own ventures i
 
 ### 🛠️ My Tech Stack
 - **Cloud**: Google Cloud, Oracle Cloud
-- **DevOps**: Terraform, Docker, Kubernetes, GitLab CI/CD
+- **DevOps**: Terraform, Docker, Kubernetes, CI/CD
 - **Others**: System Administration, Linux, Networking, Virtualization 
 
 ### 🎤 Talks
