@@ -11,14 +11,14 @@ I have over 8 years of experience in technology, starting with my own ventures i
 ### 🎤 Talks
 - **Devfest Izmir (2023)**: Before Starting the Cloud
 - **Devfest Elazığ (2023)**: Essential Networking Concepts for GCP
+- **GDG Cloud Istanbul Tech Talk (2023)**: Essential Networking Concepts for GCP
+- **Cloud Turkey Tech Talk (2023)**: Essential Networking Concepts for GCP
+- **I/O Extended Samsun (2023)**: What's New in the Google Cloud?
+- **I/O Extended Kütahya (2023)**: What's New in the Google Cloud?
 - **Devfest Denizli (2022)**: Let's Start the Google Cloud
 - **Devfest Eskişehir (2022)**: Let's Start the Google Cloud
 - **Devfest Bursa (2021)**: Let's Start the Google Cloud
 - **Cloud Study Jam'20 (2021)**: Cloud IAM & Cloud Monitoring & VPC Networks
-- **I/O Extended Samsun (2023)**: What's New in the Google Cloud?
-- **I/O Extended Kütahya (2023)**: What's New in the Google Cloud?
-- **GDG Cloud Istanbul Tech Talk (2023)**: Essential Networking Concepts for GCP
-- **Cloud Turkey Tech Talk (2023)**: Essential Networking Concepts for GCP
 
 
 ### 🔗 Connect with Me
