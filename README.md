@@ -4,7 +4,7 @@
 I have over 8 years of experience in technology, starting with my own ventures in system administration and team leadership. I’ve actively participated in community initiatives for more than four years as an organizer and speaker. Currently, I focus on giving talks about Google Cloud and have recently begun learning Oracle Cloud to further expand my knowledge.
 
 ### 🛠️ My Tech Stack
-- **Cloud**: Google Cloud, Oracle Cloud
+- **Cloud**: Google Cloud, Amazon Web Services, Oracle Cloud
 - **DevOps**: Terraform, Docker, Kubernetes, CI/CD
 - **Others**: System Administration, Linux, Networking, Virtualization 
 
