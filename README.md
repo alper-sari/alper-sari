@@ -9,6 +9,7 @@ I have over 8 years of experience in technology, starting with my own ventures i
 - **Others**: System Administration, Linux, Networking, Virtualization 
 
 ### 🎤 Talks
+- **Devfest Eskişehir (2024)**: From Zero to Scale: Google Cloud Best Practices
 - **Devfest Ankara (2024)**: From Zero to Scale: Google Cloud Best Practices
 - **Devfest Samsun (2024)**: From Zero to Scale: Google Cloud Best Practices
 - **Devfest Izmir (2023)**: Before Starting the Cloud
